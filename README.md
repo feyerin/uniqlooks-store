@@ -4,7 +4,7 @@
 
     1. Clone repo**  
      ```bash
-      git clone https://github.com/yourusername/uniqlooks-store.git
+      git clone https://github.com/feyerin/uniqlooks-store.git
       cd uniqlooks-store
 	2.	Install dependencies: npm install (atau yarn)
 	3.	Jalankan dev server: npm run dev (atau yarn dev)
