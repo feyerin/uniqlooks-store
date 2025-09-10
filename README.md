@@ -1,16 +1,36 @@
 # 🚀 UNIQLOOKS Store
 
-## ⚙️ Setup & Run
-
-    1. Clone repo**  
-     ```bash
-      git clone https://github.com/feyerin/uniqlooks-store.git
-      cd uniqlooks-store
-	2.	Install dependencies: npm install (atau yarn)
-	3.	Jalankan dev server: npm run dev (atau yarn dev)
-	•	Default: http://localhost:3000
-	•	Gunakan --host kalau mau akses lewat LAN/mobile: npm run dev -- --host
-	4.	Build & preview: npm run build && npm run preview
+## Prasyarat
+	Pastikan Anda sudah menginstall:
+	- Node.js 18+ (https://nodejs.org/)
+	- npm atau yarn
+	- Git (https://git-scm.com/)
+	
+	## Setup & Instalasi
+	1. Clone repository:
+	   git clone https://github.com/feyerin/uniqlooks-store.git
+	   cd uniqlooks-store
+	
+	2. Install dependencies:
+	   npm install
+	   atau
+	   yarn
+	
+	3. Jalankan server development:
+	   npm run dev
+	   atau
+	   yarn dev
+	
+	   - Default: http://localhost:3000
+	   - Untuk akses lewat LAN/mobile: npm run dev -- --host
+	     atau yarn dev --host
+	
+	4. Build & preview production:
+	   npm run build
+	   npm run preview
+	   atau
+	   yarn build
+	   yarn preview
 
 ## Jawaban soal essay
 
