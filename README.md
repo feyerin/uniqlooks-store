@@ -8,7 +8,7 @@
       cd uniqlooks-store
 	2.	Install dependencies: npm install (atau yarn)
 	3.	Jalankan dev server: npm run dev (atau yarn dev)
-	•	Default: http://localhost:5173
+	•	Default: http://localhost:3000
 	•	Gunakan --host kalau mau akses lewat LAN/mobile: npm run dev -- --host
 	4.	Build & preview: npm run build && npm run preview
 
